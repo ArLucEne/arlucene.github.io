@@ -1,23 +1,23 @@
 # Site settings
-title: Hi! This is ArLucEne
+title: Demin Bolg
 header-img: img/post-bg-desk.jpg
 email: 160400221@stu.hit.edu.cn
 description: "What！ Why！ How！"
 keyword: "emmmm"
 url: "http://arlucene.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/arlucene/arlucene.github.io.git" # you code repository
+#github_repo: "https://github.com/arlucene/arlucene.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
- weibo_username:     他可是罗斯呀
+# weibo_username:     他可是罗斯呀
 github_username:    ArLucEne
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
